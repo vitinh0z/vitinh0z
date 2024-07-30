@@ -1,10 +1,60 @@
 <h1 align="center">Olá 👋, sou o Victor</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade de Tecnologia de Campinas</h3>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/1vitinh0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1vitinh0x" height="30" width="40" /></a>
+---
+
+<h3>Sobre Mim</h3>
+<p>
+  Sou apaixonado por tecnologia e desenvolvimento de software. Sempre em busca de novos desafios e aprendizados, gosto de trabalhar em projetos que me permitam crescer e contribuir para a comunidade.
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<h3>Conecte-se Comigo</h3>
+<p>
+  <a href="https://twitter.com/1vitinh0x" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1vitinh0x" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-linkedin" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3>Idiomas e Ferramentas</h3>
+<p>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  </a>
+</p>
+
+---
+
+<h3>Projetos</h3>
+<ul>
+  <li>
+    <a href="https://github.com/vitinh0z/projeto1" target="_blank">Projeto 1</a> - Descrição breve do projeto 1.
+  </li>
+  <li>
+    <a href="https://github.com/vitinh0z/projeto2" target="_blank">Projeto 2</a> - Descrição breve do projeto 2.
+  </li>
+  <li>
+    <a href="https://github.com/vitinh0z/projeto3" target="_blank">Projeto 3</a> - Descrição breve do projeto 3.
+  </li>
+</ul>
+
+---
+
+<h3>Estatísticas do GitHub</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinh0z&show_icons=true&locale=en&layout=compact" alt="victor" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&locale=en" alt="victor" />
+</p>
