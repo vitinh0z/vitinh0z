@@ -39,15 +39,9 @@
 <h3>Projetos</h3>
 <ul>
   <li>
-    <a href="https://github.com/vitinh0z/projeto1" target="_blank">Projeto 1</a> - Descrição breve do projeto 1.
+    <a href="https://github.com/vitinh0z/Java-Bootcamp/blob/main/variaveis/SomaDoisNumeros/SomaDoisNumero.java" target="_blank">Mini calculadora </a> -
   </li>
-  <li>
-    <a href="https://github.com/vitinh0z/projeto2" target="_blank">Projeto 2</a> - Descrição breve do projeto 2.
-  </li>
-  <li>
-    <a href="https://github.com/vitinh0z/projeto3" target="_blank">Projeto 3</a> - Descrição breve do projeto 3.
-  </li>
-</ul>
+
 
 ---
 
