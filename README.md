@@ -39,7 +39,7 @@
 <h3>Projetos</h3>
 <ul>
   <li>
-    <a href="https://github.com/vitinh0z/Java-Bootcamp/blob/main/variaveis/SomaDoisNumeros/SomaDoisNumero.java" target="_blank">Mini calculadora </a> -
+    <a href="https://github.com/vitinh0z/Java-Bootcamp/blob/main/variaveis/SomaDoisNumeros/SomaDoisNumero.java" target="_blank">Mini calculadora </a>
   </li>
 
 
