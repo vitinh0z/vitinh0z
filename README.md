@@ -3,14 +3,9 @@
 
 ---
 
-<h3>Sobre Mim</h3>
-<p>
-  Sou apaixonado por tecnologia e desenvolvimento de software. Sempre em busca de novos desafios e aprendizados, gosto de trabalhar em projetos que me permitam crescer e contribuir para a comunidade.
-</p>
-
 ---
 
-<h3>Conecte-se Comigo</h3>
+<h3> redes Sociais</h3>
 <p>
   <a href="https://twitter.com/1vitinh0x" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1vitinh0x" height="30" width="40" />
