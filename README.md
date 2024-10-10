@@ -1,49 +1,15 @@
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Campinas</h3>
-
----
-
----
-
-<h3> redes Sociais</h3>
-<p>
-  <a href="https://twitter.com/1vitinh0x" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1vitinh0x" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/victor-linkedin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3>Idiomas e Ferramentas</h3>
-<p>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  </a>
-</p>
-
----
-
-<h3>Projetos</h3>
-<ul>
-  <li>
-    <a href="https://github.com/vitinh0z/Java-Bootcamp/blob/main/variaveis/SomaDoisNumeros/SomaDoisNumero.java" target="_blank">Mini calculadora </a>
-  </li>
+Estudante de Analise e Desenvolvimento de Sistema pela Faculdade de Tecnologia de Campinas<br>
 
 
----
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vitinh0z) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vitinh0z) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/1vitinh0x) 
 
-<h3>Estatísticas do GitHub</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinh0z&show_icons=true&locale=en&layout=compact" alt="victor" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&locale=en" alt="victor" />
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+Stats:
+![](https://github-readme-stats.vercel.app/api?username=vitinh0z&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinh0z&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
