@@ -21,9 +21,8 @@
     <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/>
   </a>
 
-  <a 
-href="https://github-readme-stats.vercel.app/api?username=vitinh0z-dev&show_icons=true&locale=en&style=flat&theme=dark" />
-  </a>
+
+href="https://github-readme-stats.vercel.app/api?username=vitinh0z-dev&show_icons=true&locale=en&style=flat&theme=dark" 
 
 </div>
 
