@@ -22,7 +22,7 @@
   </a>
 
   <a 
-https://github-readme-stats.vercel.app/api?username=vitinh0z-dev&show_icons=true&locale=en&style=flat&theme=dark>
+href="https://github-readme-stats.vercel.app/api?username=vitinh0z-dev&show_icons=true&locale=en&style=flat&theme=dark" />
   </a>
 
 </div>
