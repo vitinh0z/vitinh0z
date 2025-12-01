@@ -1,27 +1,52 @@
-<div align="center">
- 
-  ## Victor Gabriel
-  Estudante de **Análise e Desenvolvimento de Sistemas** na [Fatec Campinas](https://fateccampinas.edu.br/site/)
+# Olá — eu sou vitinh0z
 
-  <a href="https://www.linkedin.com/in/vitinh0z">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:victor10.vg23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
- 
-  ### Tecnologias
-  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white" alt="C"/>
+<p align="center">
+  <img src="assets/cowboy.gif" alt="Cowboy Bebop GIF">
+</p>
 
-  <br><br>
- 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&custom_title=GitHub+Statistics&title_color=79d8f7&theme=tokyonight&border_color=1a1b27"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="190" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vitinh0z&theme=tokyonight&border_radius=5&border=1a1b27"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-dark%20minimalist-111111?style=for-the-badge&logo=github&logoColor=white" alt="Dark Minimalist Badge">
+  <img src="https://img.shields.io/badge/💻-Tech-black?style=for-the-badge&logo=visual-studio-code" alt="Tech Badge">
+  <img src="https://img.shields.io/badge/🚀-Projects-0b0b0b?style=for-the-badge" alt="Projects Badge">
+</p>
 
-</div>
+---
+
+## Sobre
+- Minimalista, dark, e focado em código limpo.
+- Gosto de experiências visuais sutis (GIFs, temas escuros, vibe espacial).
+
+## Principais stacks
+- JavaScript / TypeScript
+- Node.js, React
+- Git / GitHub
+
+## Projetos em destaque
+- <a href="https://github.com/vitinh0z/projeto-a">Projeto A</a> — descrição curta.
+- <a href="https://github.com/vitinh0z/projeto-b">Projeto B</a> — descrição curta.
+
+## Exemplos rápidos
+```bash
+# clonar
+git clone https://github.com/vitinh0z/vitinh0z
+```
+
+## Como usar GIFs e manter o estilo dark
+- Recomendo hospedar os GIFs em /assets dentro do repo (ex.: assets/cowboy.gif e assets/space.gif). Assim a imagem não quebra com mudanças externas.
+- Use imagens com fundo transparente quando possível (APNG/GIF com transparência) para melhor integração com o layout escuro.
+- Para composição minimalista:
+  - Um GIF principal centralizado (cowboy).
+  - Um GIF de "fundo/efeito" espacial menor abaixo (p.ex. pequena animação de estrelas).
+  - Evite muitos textos e cores fortes; mantenha tipografia curta.
+
+## Exemplo com GIF espacial (colocado lado a lado)
+<p align="center">
+  <img src="assets/cowboy.gif" alt="Cowboy Bebop GIF" width="200">
+  <img src="assets/space.gif" alt="Space GIF" width="200">
+</p>
+
+## Boas práticas e variações
+- Badges escuros: use shields.io com ?style=for-the-badge e cores próximas de #0b0b0b/#111111.
+- Stats: se quiser, podemos adicionar github-readme-stats com tema dark.
+- Acessibilidade: sempre inclua alt text nas imagens.
+- Copyright: se usar GIFs de séries (ex.: Cowboy Bebop), verifique a origem/licença. Alternativa: use fan art ou clipes curtinhos com atribuição quando necessário.
