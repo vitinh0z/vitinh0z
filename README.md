@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">vitinh0z</h1>
+<h1 align="center">Victor Gabriel </h1>
 
 <p align="center">
   <em>See you, space cowboy...</em>
