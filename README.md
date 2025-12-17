@@ -15,7 +15,9 @@ I have a passion for problem-solving and building robust applications, with a st
 
 <hr>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=000000&bar_color_cover=true&mode=dark" alt="Spotify Now Playing" width="500" />
+  </a>
 </p>
 <hr>
 
@@ -59,6 +61,14 @@ I have a passion for problem-solving and building robust applications, with a st
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
+</details>
+
+<details>
+  <summary><b>♟️ Chess Stats</b></summary>
+  <br />
+  <a href="https://www.chess.com/member/vitinh0z">
+    <img height="180em" src="https://github-readme-chess-stats.vercel.app/api?username=vitinh0z&theme=dracula" />
+  </a>
 </details>
 
 <details>
