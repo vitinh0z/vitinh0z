@@ -25,16 +25,27 @@ I have a passion for problem-solving and building robust applications, with a st
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with **Java 21, Spring Boot, Docker**.
-- 🚀 &nbsp; I’m currently exploring **Microservices & Physics Simulation**.
+- 🛠 &nbsp; I’m currently working with **Java 21/25, Spring Boot, Docker**.
+- 🚀 &nbsp; I’m currently exploring **Microservices, JVM Internals & Physics Simulation**.
 - 💬 &nbsp; Ask me about **Java, Backend, or Chess**.
 - 📫 &nbsp; Reach me out: **[vitinh0z.contato@gmail.com](mailto:vitinh0z.contato@gmail.com)**.
 
 ### 🚀 Featured Projects:
 
-- **[NBody Simulator](https://github.com/vitinh0z/NBody-Simulator.git)**: Gravitational simulator using numerical integration & JavaFX.
-- **[Tablet Monitor](https://github.com/vitinh0z/ServerWithTelemetrics)**: Turns old Android tablets into telemetry servers via WebSockets.
-- **[RPA Job Scraping](LINK_DO_SEU_REPOSITORIO_RPA_AQUI)**: High-throughput Java 21 RPA service with Discord integration.
+- 🏫 **[School System API](LINK_DO_REPOSITORIO_SCHOOL)** <br>
+  Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, complex JPA relationships, and automated deploy.
+
+- ⏰ **[Reminder API](LINK_DO_REPOSITORIO_REMINDER)** <br>
+  Bleeding-edge scheduling system. Contributed to **Java 25** migration, **JLink** Docker optimization, and resilience patterns.
+
+- ⚡ **[Java Performance Studies](LINK_DO_REPOSITORIO_PERFORMANCE)** <br>
+  Deep technical dive into **JVM internals**, Multithreading patterns, and Microbenchmarking with **JMH**.
+
+- 📱 **[Tablet Monitor IoT](https://github.com/vitinh0z/ServerWithTelemetrics)** <br>
+  Real-time telemetry system transforming old Android hardware into WebSocket servers. **Spring Boot + Android**.
+
+- 🤖 **[RPA Job Scraper](LINK_DO_REPOSITORIO_RPA)** <br>
+  Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies via **Discord Webhooks**.
 
 <br clear="right"/>
 
