@@ -30,13 +30,13 @@ I have a passion for problem-solving and building robust applications, with a st
 - 💬 &nbsp; Ask me about **Java, Backend, or Chess**.
 - 📫 &nbsp; Reach me out: **[vitinh0z.contato@gmail.com](mailto:vitinh0z.contato@gmail.com)**.
 
-### 🚀 Featured Projects:
+###  Featured Projects:
 
 - 🏫 **[School System API](LINK_DO_REPOSITORIO_SCHOOL)** <br>
   Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, complex JPA relationships, and automated deploy.
 
 - ⏰ **[Reminder API](LINK_DO_REPOSITORIO_REMINDER)** <br>
-  Bleeding-edge scheduling system. Contributed to **Java 25** migration, **JLink** Docker optimization, and resilience patterns.
+  Bleeding-edge scheduling system on **Java 21**. Recently enhanced system security by implementing **UUID tokens** (IDOR protection) and **Rate Limiting**. Active contributor in refactoring core validation logic and developing end-to-end notification features.
 
 - ⚡ **[Java Performance Studies](LINK_DO_REPOSITORIO_PERFORMANCE)** <br>
   Deep technical dive into **JVM internals**, Multithreading patterns, and Microbenchmarking with **JMH**.
@@ -45,7 +45,7 @@ I have a passion for problem-solving and building robust applications, with a st
   Real-time telemetry system transforming old Android hardware into WebSocket servers. **Spring Boot + Android**.
 
 - 🤖 **[RPA Job Scraper](LINK_DO_REPOSITORIO_RPA)** <br>
-  Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies via **Discord Webhooks**.
+  Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies via **Discord Webhooks**..
 
 <br clear="right"/>
 
