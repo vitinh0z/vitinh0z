@@ -62,24 +62,24 @@ I have a passion for problem-solving and building robust applications, with a st
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinh0z&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinh0z&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
 </details>
 
 <details>
-  <summary><b>♟️ Chess Stats</b></summary>
-  <br />
-  <a href="https://www.chess.com/member/vitinh0z">
-    <img height="180em" src="https://github-readme-chess-stats.vercel.app/api?username=vitinh0z&theme=dracula" />
-  </a>
+  <summary><b>♟️ Chess Stats</b></summary>
+  <br />
+  <a href="https://www.chess.com/member/vitinh0z">
+    <img height="180em" src="https://github-readme-chess-stats.vercel.app/api?username=vitinh0z&theme=dracula" />
+  </a>
 </details>
 
 <details>
