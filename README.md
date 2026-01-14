@@ -53,7 +53,7 @@ Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protec
 
 **Tech Stack:** `Java 21` `Spring Boot` `WebSockets`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)][(https://github.com/SpringNoobs/reminder-api)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/SpringNoobs/reminder-api)
 
 </td>
 </tr>
