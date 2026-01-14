@@ -43,7 +43,7 @@ Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, comp
 
 **Tech Stack:** `Java 21` `Spring Boot` `PostgreSQL` `Docker`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](LINK_DO_REPOSITORIO_SCHOOL)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/School-System)
 
 </td>
 <td width="50%">
@@ -53,7 +53,7 @@ Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protec
 
 **Tech Stack:** `Java 21` `Spring Boot` `WebSockets`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](LINK_DO_REPOSITORIO_REMINDER)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)][(https://github.com/SpringNoobs/reminder-api)
 
 </td>
 </tr>
@@ -66,7 +66,7 @@ Deep technical dive into **JVM internals**, Multithreading patterns, and Microbe
 
 **Tech Stack:** `Java` `JMH` `Profiling`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](LINK_DO_REPOSITORIO_PERFORMANCE)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/JavaPerformanceStudy)
 
 </td>
 <td width="50%">
@@ -89,7 +89,7 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
 
 **Tech Stack:** `Python` `Docker` `Discord API` `CI/CD`
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](LINK_DO_REPOSITORIO_RPA)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/AutomacaoVagasEstagio)
 
 </td>
 </tr>
@@ -113,14 +113,6 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
-</p>
-
-### ♟️ Chess Statistics:
-
-<p align="center">
-  <a href="https://www.chess.com/member/vitinh0z">
-    <img src="https://github-readme-chess-stats.vercel.app/api?username=vitinh0z&theme=dracula" />
-  </a>
 </p>
 
 ### 📈 Activity Graph:
