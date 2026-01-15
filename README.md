@@ -32,13 +32,13 @@ I have a passion for problem-solving and building robust applications, with a st
 
 <br clear="right"/>
 
-### 🚀 Featured Projects:
+### Featured Projects:
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🏫 School System API
+#### School System API
 Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, complex JPA relationships, and automated deploy.
 
 **Tech Stack:** `Java 21` `Spring Boot` `PostgreSQL` `Docker`
@@ -48,7 +48,7 @@ Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, comp
 </td>
 <td width="50%">
 
-#### ⏰ Reminder API
+#### Reminder API
 Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protection) and **Rate Limiting**.
 
 **Tech Stack:** `Java 21` `Spring Boot` `WebSockets`
@@ -61,7 +61,7 @@ Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protec
 <tr>
 <td width="50%">
 
-#### ⚡ Java Performance Studies
+####  Java Performance Studies
 Deep technical dive into **JVM internals**, Multithreading patterns, and Microbenchmarking with **JMH**.
 
 **Tech Stack:** `Java` `JMH` `Profiling`
@@ -71,7 +71,7 @@ Deep technical dive into **JVM internals**, Multithreading patterns, and Microbe
 </td>
 <td width="50%">
 
-#### 📱 Tablet Monitor IoT
+####  Tablet Monitor IoT
 Real-time telemetry system transforming old Android hardware into WebSocket servers.
 
 **Tech Stack:** `Spring Boot` `Android` `WebSockets`
@@ -84,7 +84,7 @@ Real-time telemetry system transforming old Android hardware into WebSocket serv
 <tr>
 <td width="50%" colspan="2">
 
-#### 🤖 RPA Job Scraper
+####  RPA Job Scraper
 Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies via **Discord Webhooks**.
 
 **Tech Stack:** `Python` `Docker` `Discord API` `CI/CD`
@@ -95,7 +95,7 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
 </tr>
 </table>
 
-### 🛠️ Languages and Tools:
+###   Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -104,7 +104,7 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 GitHub Statistics:
+###   GitHub Statistics:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
@@ -115,7 +115,7 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
 </p>
 
-### 📈 Activity Graph:
+###   Activity Graph:
 
 [![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitinh0z&theme=dracula&hide_border=true)](https://github.com/vitinh0z)
 
