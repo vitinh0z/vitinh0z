@@ -1,17 +1,12 @@
-## Hey there 👋, I'm [Victor Gabriel!](https://github.com/vitinh0z)
+## Victor Gabriel
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
-[![Chess.com Badge](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
+[![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
 
-### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitinh0z&label=Profile%20views&color=0e75b6&style=flat" alt="vitinh0z" /> </p>
+Desenvolvedor Java e estudante da **Fatec Campinas**, focado em sistemas backend e fascinado pela interseção entre código e ciência.
 
-I am a **Java Developer** and a Student at **Fatec Campinas**, passionate about backend systems and astronomy.
-
-I have a passion for problem-solving and building robust applications, with a strong foundation in **Java**, **Spring Boot**, and **System Architecture**. I love exploring the intersection of code and science (like N-Body simulations) and automating complex tasks.
-
-*See you, space cowboy...*
+Atualmente trabalhando com **Java 21/25**, **Spring Boot** e **Docker**, explorando microsserviços, internals da JVM e simulação física.
 
 <hr>
 <p align="center">
@@ -21,39 +16,26 @@ I have a passion for problem-solving and building robust applications, with a st
 </p>
 <hr>
 
-<img align="right" height="200" width="350" alt="Cowboy Bebop" src="https://media1.tenor.com/m/zBSZER_aGuQAAAAd/cowboy-bebop-scifi.gif" style="border-radius:10px" />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I'm currently working with **Java 21/25, Spring Boot, Docker**.
-- 🚀 &nbsp; I'm currently exploring **Microservices, JVM Internals & Physics Simulation**.
-- 💬 &nbsp; Ask me about **Java, Backend, or Chess**.
-- 📫 &nbsp; Reach me out: **[vitinh0z.contato@gmail.com](mailto:vitinh0z.contato@gmail.com)**.
-
-<br clear="right"/>
-
-### Featured Projects:
+### Projetos
 
 <table>
 <tr>
 <td width="50%">
 
-#### School System API
-Robust REST API built with **Spring Boot 3**, featuring Clean Architecture, complex JPA relationships, and automated deploy.
+**[Project Athena](https://github.com/vitinh0z/project-athena)**
 
-**Tech Stack:** `Java 21` `Spring Boot` `PostgreSQL` `Docker`
+Plataforma de análise de xadrez explicável com camada LLM, orquestração via MCP e engine Stockfish.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/School-System)
+`Java` `Spring Boot` `React` `Stockfish` `MCP`
 
 </td>
 <td width="50%">
 
-#### Reminder API
-Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protection) and **Rate Limiting**.
+**[Neural Network](https://github.com/vitinh0z/neural-network)**
 
-**Tech Stack:** `Java 21` `Spring Boot` `WebSockets`
+Redes neurais construídas do zero em Java puro, sem frameworks de ML.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/SpringNoobs/reminder-api)
+`Java` `Redes Neurais`
 
 </td>
 </tr>
@@ -61,22 +43,20 @@ Bleeding-edge scheduling system on **Java 21** with **UUID tokens** (IDOR protec
 <tr>
 <td width="50%">
 
-####  Java Performance Studies
-Deep technical dive into **JVM internals**, Multithreading patterns, and Microbenchmarking with **JMH**.
+**[SGPE](https://github.com/vitinh0z/sgpe)**
 
-**Tech Stack:** `Java` `JMH` `Profiling`
+Sistema de gerenciamento para pequenas empresas — solução backend completa e versátil.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/JavaPerformanceStudy)
+`Java 21` `Spring Boot` `PostgreSQL`
 
 </td>
 <td width="50%">
 
-####  Tablet Monitor IoT
-Real-time telemetry system transforming old Android hardware into WebSocket servers.
+**[Barnes-Hut Algorithm](https://github.com/vitinh0z/barnes-hut-algorithm)**
 
-**Tech Stack:** `Spring Boot` `Android` `WebSockets`
+Simulação gravitacional de N-corpos com complexidade O(n log n) usando a árvore Barnes-Hut.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/ServerWithTelemetrics)
+`Java` `Simulação Física` `Algoritmos`
 
 </td>
 </tr>
@@ -84,27 +64,26 @@ Real-time telemetry system transforming old Android hardware into WebSocket serv
 <tr>
 <td width="50%" colspan="2">
 
-####  RPA Job Scraper
-Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies via **Discord Webhooks**.
+**[RPA Job Scraper](https://github.com/vitinh0z/AutomacaoVagasEstagio)**
 
-**Tech Stack:** `Python` `Docker` `Discord API` `CI/CD`
+Bot automatizado com Docker e CI/CD que monitora vagas e envia alertas via Discord Webhooks.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/vitinh0z/AutomacaoVagasEstagio)
+`Python` `Docker` `Discord API` `CI/CD`
 
 </td>
 </tr>
 </table>
 
-###   Languages and Tools:
+### Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###   GitHub Statistics:
+### Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
@@ -115,33 +94,8 @@ Automated bot with **Docker** & **CI/CD** that monitors job boards and notifies 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
 </p>
 
-###   Activity Graph:
-
-[![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitinh0z&theme=dracula&hide_border=true)](https://github.com/vitinh0z)
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-    <ul>
-      <li><b>OS:</b> Windows / Linux</li>
-      <li><b>Code Editor:</b> IntelliJ IDEA - The best for Java</li>
-      <li><b>Containerization:</b> Docker</li>
-      <li><b>Version Control:</b> Git & GitHub</li>
-      <li><b>Database:</b> PostgreSQL, MySQL</li>
-      <li><b>Tools:</b> Postman, DBeaver, Maven/Gradle</li>
-    </ul>
-</details>
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=vitinh0z&theme=dracula&hide_border=true)](https://github.com/vitinh0z)
 
 ---
 
-<div align="center">
-  
-### 🌟 Thanks for visiting! 🌟
-
-*"See you, space cowboy..."* 🚀
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
-[![Chess.com](https://img.shields.io/badge/Play_Chess-5C8D3E?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
-
-</div>
+*See you, space cowboy...*
