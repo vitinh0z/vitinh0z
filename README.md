@@ -3,7 +3,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
 
-Software Engineer Intern @ [Okiar Intelligence](https://www.linkedin.com/company/okiar)
+Software Engineer Intern @ Okiar Intelligence — Java, Spring Boot, Docker.
+
 <hr>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&redirect=true">
@@ -11,20 +12,6 @@ Software Engineer Intern @ [Okiar Intelligence](https://www.linkedin.com/company
   </a>
 </p>
 <hr>
-
-### Projetos
-
-**[java-performance](https://github.com/vitinh0z/java-performance)**
-Benchmarks com JMH, concorrência e otimizações na JVM.
-`Java` `JMH` `Concorrência`
-
-**[project-athena](https://github.com/vitinh0z/project-athena)**
-Análise de partidas de xadrez com Stockfish, explicada por LLM via MCP. Backend Java/Spring + frontend React.
-`Java` `Spring Boot` `React` `Stockfish` `MCP`
-
-**[chess-ai-trainer](https://github.com/vitinh0z/chess-ai-trainer)**
-Pipeline de coleta de dados e fine-tuning com LoRA de um LLM de xadrez em PT-BR.
-`Python` `LoRA` `Fine-tuning`
 
 ### Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
