@@ -1,13 +1,9 @@
 ## Victor Gabriel
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
 
-Desenvolvedor Java e estudante da **Fatec Campinas**, focado em sistemas backend e fascinado pela interseção entre código e ciência.
-
-Atualmente trabalhando com **Java 21/25**, **Spring Boot** e **Docker**, explorando microsserviços, internals da JVM e simulação física.
-
+Software Engineer Intern @ [Okiar Intelligence](https://www.linkedin.com/company/okiar)
 <hr>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22jjajmyfl2jb5ntdqrz3pkny&redirect=true">
@@ -18,64 +14,19 @@ Atualmente trabalhando com **Java 21/25**, **Spring Boot** e **Docker**, explora
 
 ### Projetos
 
-<table>
-<tr>
-<td width="50%">
+**[java-performance](https://github.com/vitinh0z/java-performance)**
+Benchmarks com JMH, concorrência e otimizações na JVM.
+`Java` `JMH` `Concorrência`
 
-**[Project Athena](https://github.com/vitinh0z/project-athena)**
-
-Plataforma de análise de xadrez explicável com camada LLM, orquestração via MCP e engine Stockfish.
-
+**[project-athena](https://github.com/vitinh0z/project-athena)**
+Análise de partidas de xadrez com Stockfish, explicada por LLM via MCP. Backend Java/Spring + frontend React.
 `Java` `Spring Boot` `React` `Stockfish` `MCP`
 
-</td>
-<td width="50%">
-
-**[Neural Network](https://github.com/vitinh0z/neural-network)**
-
-Redes neurais construídas do zero em Java puro, sem frameworks de ML.
-
-`Java` `Redes Neurais`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**[SGPE](https://github.com/vitinh0z/sgpe)**
-
-Sistema de gerenciamento para pequenas empresas — solução backend completa e versátil.
-
-`Java 21` `Spring Boot` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-**[Barnes-Hut Algorithm](https://github.com/vitinh0z/barnes-hut-algorithm)**
-
-Simulação gravitacional de N-corpos com complexidade O(n log n) usando a árvore Barnes-Hut.
-
-`Java` `Simulação Física` `Algoritmos`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2">
-
-**[RPA Job Scraper](https://github.com/vitinh0z/AutomacaoVagasEstagio)**
-
-Bot automatizado com Docker e CI/CD que monitora vagas e envia alertas via Discord Webhooks.
-
-`Python` `Docker` `Discord API` `CI/CD`
-
-</td>
-</tr>
-</table>
+**[chess-ai-trainer](https://github.com/vitinh0z/chess-ai-trainer)**
+Pipeline de coleta de dados e fine-tuning com LoRA de um LLM de xadrez em PT-BR.
+`Python` `LoRA` `Fine-tuning`
 
 ### Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,12 +35,10 @@ Bot automatizado com Docker e CI/CD que monitora vagas e envia alertas via Disco
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Estatísticas
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinh0z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinh0z&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
 </p>
@@ -97,5 +46,4 @@ Bot automatizado com Docker e CI/CD que monitora vagas e envia alertas via Disco
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=vitinh0z&theme=dracula&hide_border=true)](https://github.com/vitinh0z)
 
 ---
-
 *See you, space cowboy...*
