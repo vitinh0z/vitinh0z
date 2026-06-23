@@ -1,4 +1,4 @@
-## Victor Gabriel
+## Victor 'vitinho' Gabriel
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitinh0z)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:contato@vitinh0z.dev)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
@@ -25,8 +25,6 @@ Software Engineer Intern @ Okiar Intelligence
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitinh0z&hide_border=true&theme=dracula" />
 </p>
-
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=vitinh0z&theme=dracula&hide_border=true)](https://github.com/vitinh0z)
 
 ---
 *See you, space cowboy...*
