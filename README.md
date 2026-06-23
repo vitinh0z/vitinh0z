@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vitinh0z.contato@gmail.com)
 [![Chess.com](https://img.shields.io/badge/-Chess.com-5C8D3E?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/vitinh0z)
 
-Software Engineer Intern @ Okiar Intelligence — Java, Spring Boot, Docker.
+Software Engineer Intern @ Okiar Intelligence
 
 <hr>
 <p align="center">
